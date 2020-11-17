@@ -15,9 +15,9 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-	        <sonar.projectKey>NOSSO-BANCO-DIGITAL</sonar.projectKey>
+	        <sonar.projectKey>banco-digital</sonar.projectKey>
 		<sonar.host.url>http://ip172-18-0-17-buq3fuhqckh000bijlj0-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		<sonar.login>e42aa4fea5d10cca14e8ce627ee43ecb0044ed01</sonar.login>	
+		<sonar.login>659eb37aafd194a81d352491ff076eb5dc25a6cc</sonar.login>	
 		<sonar.language>java</sonar.language>	
 		<sonar.sources>src/main/java</sonar.sources>
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
